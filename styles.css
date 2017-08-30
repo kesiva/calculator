@@ -1,0 +1,29 @@
+#outsideFrame {
+  border: 2px solid black;
+  border-radius: 5px;
+  height: 205px;
+  width: 230px;
+  margin: 0 auto;
+  background-color: #B0C4DE;
+}
+
+#displayFrame{
+  background-color: #F8F8FF;
+  border: 2px solid grey;
+  border-radius: 2px;
+  height: 50px;
+  width: 208px;
+  margin: 3px auto;
+}
+
+.buttons{
+  font-size:20px;
+  background-color: Gainsboro;
+  border: 1px solid black;  
+  width: 50px;
+  margin: 2px;
+}
+
+.firstRow, .secondRow, .thirdRow, .fourthRow{
+  text-align: center;
+}
