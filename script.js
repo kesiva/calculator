@@ -1,5 +1,4 @@
 //Stores all the numbers and math signs shows in the display screen.
-//REMINDER: CHANGE THE GLOBAL VARIABLE
 var calcArray = [];
 
 //Pushes numbers to the display screen
